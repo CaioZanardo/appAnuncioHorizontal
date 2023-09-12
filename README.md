@@ -2,4 +2,4 @@
 
 - Criar a pasta fotos e utilziar o arquivo pubspec.yaml para conseguir utilziar as imagens do App
 
-![PRINT!](Anuncio.png)
+![PRINT!](AnunciosO.png)
