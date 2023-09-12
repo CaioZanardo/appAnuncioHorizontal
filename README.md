@@ -1,5 +1,8 @@
-# Conteúdo criado nas aulas de MOBILE HÍBRIDO DEVELOPMENT
+# appAnuncioHorizontal
 
-- Criar a pasta fotos e ajustar o arquivo pubspec.yaml para conseguir utilizar as imagens no App
+- Conteúdo criado nas aulas de MOBILE HÍBRIDO DEVELOPMENT
+
+## Modo de Uso
+- Criar a pasta fotos, subir imagens e ajustar o arquivo pubspec.yaml para conseguir utilizar as imagens no App
 
 ![PRINT!](AnunciosO.png)
